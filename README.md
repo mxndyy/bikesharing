@@ -13,43 +13,43 @@ Tableau was used to create 7 visualizations to help analyze the Citibike data.
                         
 #### Our First Visualization Focused on the types of users Using Citibike's Bike-Sharing Program. By Creating a Pie Chart we were able to easily see that the vast majority of users were ``Subscribers`` (1,900,359) rather than ``Customers`` (443,865). 
 
-![Customer type](https://github.com/mxndyy/bikesharing/Pictures/Customer type.png)
+![Customer type](Pictures/Customer type.png)
 
 ### August Peak Hours
 
 ####August peak hours aimed to determine what times of the day featured Peak Ridership. Through the creation of a horizontal bar chart, we found that Citibike usage was highest between 8 AM - 9 AM and 5 PM - 7 PM. Overall, the chart showed the usage was generally high throughout the day, with the only exception remaining its first four hours. 
 
-![peak hours](https://github.com/mxndyy/bikesharing/Pictures/peak hours.png)
+![peak hours](Pictures/peak hours.png)
 
 ### Checkout Times For Users
 
 #### Our Third Visualization, a line chart, looked at how long a customer used a bike to reach their destination. It found that the average ``Trip Duration`` was only 5 minutes long, with steady declines in usage rates afterwards. Users whose trips lasted over 60 minutes were essentially nonexistent.
 
-![checkout times for users](https://github.com/mxndyy/bikesharing/Pictures/checkout times for users.png)
+![checkout times for users](Pictures/checkout times for users.png)
 
 ### Checkout Times By Gender
 
 #### Checkout times by gender looks to analyze if trip duration was in any way dependent on gender. However, we found that gender did not play a role in ``Trip Duration`` as ``Male`` users' trips peaked at 5 minutes, while ``Female`` users' trips peaked at 6 minutes. 
 
-![checkout times by gender](https://github.com/mxndyy/bikesharing/Pictures/checkout times by gender.png)
+![checkout times by gender](Pictures/checkout times by gender.png)
 
 ### Trips By Weekday Per Hour
 
 #### Another area of interest was what role the time of day and weekday played in rider usage. As a result, we created a heatmap which showed that the heaviest usage of Citibikes during Weekdays (Monday-Thursday) occurred around 8 AM and 5-6PM. It can be assumed that this is due to riders commuting to and from work. While on the weekends, (Friday-Sunday) there was a wider range of usage starting later in the day, This may be due to riders not having to wake up as early to get to work, and the added free time the weekend affords most users. 
 
-![Trips by weekday per hour](https://github.com/mxndyy/bikesharing/Pictures/Trips by weekday per hour.png)
+![Trips by weekday per hour](Pictures/Trips by weekday per hour.png)
 
 ### Trips By Gender (Weekday Per Hour)
 
 ####  Trips by gender looks at whether gender played a role in the aformentioned usage patterns. Ultimately we found that the high usage times remained consistent across both ``Male`` and ``Female`` riders. While, ``Unknown`` gender types did not necessarily follow these patterns, this could be attributed to its significantly lower sample size. 
 
-![Trips by gender](https://github.com/mxndyy/bikesharing/Pictures/Trips by gender.png)
+![Trips by gender](Pictures/Trips by gender.png)
 
 ### User Trips By Gender By Weekday
 
 #### User trips by gender shows a. heatmap that looked at both ``Gender`` and ``Weekday`` usage within the context of User Type. This heatmap found that both ``Male`` and ``Female`` Users used the bike-sharing program significantly more if they were a ``Subscriber`` rather than a ``Customer``. Again, the ``Unknown`` gender type did not necessarily follow this pattern, but this again could be attributed to its lower sample size. 
 
-![user trips by gender by weekday](https://github.com/mxndyy/bikesharing/Pictures/user trips by gender by weekday.png)
+![user trips by gender by weekday](Pictures/user trips by gender by weekday.png)
 
 ### Tableau Story
 
